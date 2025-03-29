@@ -1,4 +1,4 @@
-# Contributor Claire Stroebel <calliopesystem@gmail.com>
+# Contributor Calliope System <calliopesystem@gmail.com>
 
 pkgname=lib32-com.paragon.mounter
 pkgver=1.0.0
